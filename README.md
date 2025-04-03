@@ -12,7 +12,7 @@ The full implementation of Adaptive CVgen is still being organized and will be r
 # Citation
 If you find this repository useful, please cite our paper:
 
-[Wenhui Shen, Xinghua Shi, et al.], Adaptive CVgen: [Adaptive CVgen: Leveraging reinforcement learning for advanced sampling in protein folding and chemical reactions], PNAS, 2024, DOI: 10.1073/pnas.2414205121.
+Wenhui Shen, Xinghua Shi, et al., Adaptive CVgen: Leveraging reinforcement learning for advanced sampling in protein folding and chemical reactions, PNAS, 2024, DOI: 10.1073/pnas.2414205121.
 
 # Contact
 For any questions or discussions, feel free to open an issue or contact us.
